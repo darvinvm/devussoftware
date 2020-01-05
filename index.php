@@ -45,12 +45,12 @@
     <div class="container">
         <div class="row">
             <div class="col-md-12 text-center">
-                <div class="big-title">Better Web Hosting, For You.</div>
-                <div class="sub-title">Morbi libero tortor, interdum fermentum justo et, mollis interdum justo. Morbi a accumsan urna.</div>
+                <div class="big-title">Lleva tu Negocio al Mundo Digital.</div>
+                <div class="sub-title">Es el Momento de la Transformación Digital. Recibe nuestras asesorías y servicios personalizados en TIC para aumentar el alcance de tu negocio</div>
                 <div class="domain-search-holder">
                     <form id="domain-search">
-                        <input id="domain-text" type="text" name="domain" placeholder="Enter your new domain name" />
-                        <input id="search-btn" type="submit" name="submit" value="Get started" />
+                        <input id="domain-text" type="text" name="domain" placeholder="Entra Tu Correo Electronico" />
+                        <input id="search-btn" type="submit" name="submit" value="Contáctanos" />
                     </form>
                 </div>
                 <div class="animation">
