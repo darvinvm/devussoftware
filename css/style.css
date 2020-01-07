@@ -990,8 +990,23 @@
     padding-bottom: 80px;
 }
 #footer .logo-mini{
-    width: 24px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+    margin-top: 12px; 
 }
+
+@media only screen and (max-width: 990px) {
+    #footer	.logo-mini{
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 18%;
+        margin-top: 12px; 
+}
+}	
+
 #footer h4 {
     font-size: 14px;
     color: #798093;
