@@ -47,7 +47,7 @@
         <div class="row">
             <div class="col-md-12 text-center">
                 <div class="page-title">Contactate con nosotros</div>
-                <div class="page-subtitle">Algo en lo que podamos ayudarte?<br>Escribenos un mensaje, una persona de 
+                <div class="page-subtitle">Algo en lo que podamos ayudarte?<br>Escribenos un mensage, una persona de 
                 nuetros equipo se pondra en contacto contigo lo mas pronto posible.</div>
             </div>
         </div>
@@ -58,10 +58,10 @@
         <div class="row">
             <div class="col-md-7">
                 <div class="col-title">Formulario de contacto</div>
-                <form id="contactform" method="post" autocomplete="off">
+                <form id="contactform" method="post" autocomplete="off"  action="EnviarMensage.php">
                     <div class="form-items-holder">
                         <div class="form-text">
-                            <input type="text" name="name" placeholder="Nombre" required>
+                            <input type="text" name="nombre" placeholder="Nombre" required>
                         </div>
                         <div class="form-text">
                             <input type="email" name="email" placeholder="Email">
@@ -70,7 +70,7 @@
                             <input type="text" name="tel" placeholder="Telefono/Celular" required>
                         </div>
                         <div class="form-text">
-                            <textarea name="message" placeholder="Escriba su mensaje aqui" required></textarea>
+                            <textarea name="mensage" placeholder="Escriba su mensaje aqui" required></textarea>
                         </div>
                         <div class="form-button"><input id="submit" type="submit" value="Enviar mensaje"></div>
                     </div>
@@ -83,15 +83,15 @@
 
                 <h4>Telefonos</h4>
                 <p>
-                <div class="phone"><i class="fas fa-phone" style=" color: #1f8ded;"></i> 809-872-6307</div>
-                <div class="phone"><i class="fas fa-mobile" style=" color: #1f8ded;"></i>_829-268-7105</div>
+                <div class="phone"> <a href="tel:+18292687105"><i class="fas fa-mobile"></i> 829-268-7105</a></div>
+                <div class="phone"> <a href="tel:+18088726307"><i class="fas fa-phone"></i> 809-872-6307</a></div>
                 </p>
 
                 <h4>Nuestros correos</h4>
                 <p>
-                <div class="phone"><i class="fas fa-envelope " style="color: #1f8ded;"></i> info@devussoftware.com</div> 
-                <div class="phone"><i class="fas fa-envelope " style="color: #1f8ded;"></i> kberas@devussoftware.com</div>
-                <div class="phone"><i class="fas fa-envelope " style="color: #1f8ded;"></i> vp@devussoftware.com</div> 
+                    <div class="email"> <a href="mailto:info@devus.software"><i class="fas fa-envelope" style="color: #1f8ded;"></i> info@devus.software</a></div>
+                    <div class="email"> <a href="mailto:ceo@devus.software"><i class="fas fa-envelope" style="color: #1f8ded;"></i> ceo@devus.software</a></div>
+                    <div class="email"> <a href="mailto:coo@devus.software"><i class="fas fa-envelope" style="color: #1f8ded;"></i> coo@devus.software</a></div>
                 </p>
                 <!--
                 <a class="lg-link" href="support.html">Technical Support <i class="fas fa-arrow-right" aria-hidden="true"></i></a>
@@ -158,8 +158,8 @@ Maecenas ac urna eget magna vulputate interdum.</div>
                 </ul>
             </div>
             <div class="col-xs-12 col-sm-4 col-md-3">
-                <div class="phone"><i class="fas fa-phone"></i> 829-268-7105</div>
-                <div class="email"><i class="fas fa-envelope"></i> info@devus.software</div>
+                <div class="phone"> <a href="tel:+18292687105"><i class="fas fa-phone"></i> 829-268-7105</a></div>
+                <div class="email"> <a href="mailto:info@devus.software"><i class="fas fa-envelope"></i> info@devus.software</a></div>
                 <div class="address">
                     <i class="fas fa-map-marker"></i> 
                     <div>Higuey, La Altagracia, Rep. Dom.</div>
