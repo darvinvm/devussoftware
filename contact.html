@@ -46,8 +46,9 @@
     <div class="container">
         <div class="row">
             <div class="col-md-12 text-center">
-                <div class="page-title">Contact us</div>
-                <div class="page-subtitle">Need something else? Send a direct message to our support team or contact us here</div>
+                <div class="page-title">Contactate con nosotros</div>
+                <div class="page-subtitle">Algo en lo que podamos ayudarte?<br>Escribenos un mensage, una persona de 
+                nuetros equipo se pondra en contacto contigo lo mas pronto posible.</div>
             </div>
         </div>
     </div>
@@ -56,45 +57,46 @@
     <div class="container">
         <div class="row">
             <div class="col-md-7">
-                <div class="col-title">Contact form</div>
-                <form id="contactform" method="post" autocomplete="off">
+                <div class="col-title">Formulario de contacto</div>
+                <form id="contactform" method="post" autocomplete="off"  action="EnviarMensage.php">
                     <div class="form-items-holder">
                         <div class="form-text">
-                            <input type="text" name="name" placeholder="Name" required>
+                            <input type="text" name="nombre" placeholder="Nombre" required>
                         </div>
                         <div class="form-text">
-                            <input type="email" name="email" placeholder="Email" required>
+                            <input type="email" name="email" placeholder="Email">
                         </div>
                         <div class="form-text">
-                            <input type="text" name="website" placeholder="Website" required>
+                            <input type="text" name="tel" placeholder="Telefono/Celular" required>
                         </div>
                         <div class="form-text">
-                            <textarea name="message" placeholder="Message" required></textarea>
+                            <textarea name="mensage" placeholder="Escriba su mensaje aqui" required></textarea>
                         </div>
-                        <div class="form-button"><input id="submit" type="submit" value="Send now"></div>
+                        <div class="form-button"><input id="submit" type="submit" value="Enviar mensaje"></div>
                     </div>
                 </form>
             </div>
             <div class="col-md-5 contacts">
-                <div class="col-title">Office Locations</div>
-                
-                <h4>Sydney</h4>
-                <p>Sydney, Australia<br>
-                Road 398, Center, Office 38, floor 3<br>
-                Contact number: 0901</p>
+                <div class="col-title">Otros contactos</div>
+                <h4>Nuetra oficina</h4>
+                <p>Higuey, La Altagracia, Rep. Dom.</p>
 
-                <h4>United States</h4>
-                <p>At vero eos et accusamus et iusto odio dignissimos  ducimus 
-                qui blanditiis. praesentium voluptatum deleniti llitia animi, 
-                At vero eos et accusamus et Main iusto odio dignissimos.</p>
+                <h4>Telefonos</h4>
+                <p>
+                <div class="phone"> <a href="tel:+18292687105"><i class="fas fa-mobile"></i> 829-268-7105</a></div>
+                <div class="phone"> <a href="tel:+18088726307"><i class="fas fa-phone"></i> 809-872-6307</a></div>
+                </p>
 
-                <h4>Bahrain</h4>
-                <p>At vero eos et accusamus et iusto odio dignissimos  ducimus 
-                qui blanditiis. praesentium voluptatum deleniti llitia animi, 
-                inquiries@hostio.co.io</p>
-                
+                <h4>Nuestros correos</h4>
+                <p>
+                    <div class="email"> <a href="mailto:info@devus.software"><i class="fas fa-envelope" style="color: #1f8ded;"></i> info@devus.software</a></div>
+                    <div class="email"> <a href="mailto:ceo@devus.software"><i class="fas fa-envelope" style="color: #1f8ded;"></i> ceo@devus.software</a></div>
+                    <div class="email"> <a href="mailto:coo@devus.software"><i class="fas fa-envelope" style="color: #1f8ded;"></i> coo@devus.software</a></div>
+                </p>
+                <!--
                 <a class="lg-link" href="support.html">Technical Support <i class="fas fa-arrow-right" aria-hidden="true"></i></a>
-                <p>At vero eos et accusamus et iusto odio dignissimos ducimus</p>
+                #se comento esta parte del codigo porque hasta el momento es innecesario-->
+                <p class=""><br>No esperes mas!!!<br>Ponte en contacto con nosotros.</p>
             </div>
         </div>
     </div>
@@ -156,18 +158,16 @@ Maecenas ac urna eget magna vulputate interdum.</div>
                 </ul>
             </div>
             <div class="col-xs-12 col-sm-4 col-md-3">
-                <div class="phone"><i class="fas fa-phone"></i> 00 285 900 38502</div>
-                <div class="email"><i class="fas fa-envelope"></i> hello@hostio.io</div>
+                <div class="phone"> <a href="tel:+18292687105"><i class="fas fa-phone"></i> 829-268-7105</a></div>
+                <div class="email"> <a href="mailto:info@devus.software"><i class="fas fa-envelope"></i> info@devus.software</a></div>
                 <div class="address">
                     <i class="fas fa-map-marker"></i> 
-                    <div>Brizbin, Australia<br>
-                        Road 398, Center<br>
-                        Office 38, floor 3</div>
+                    <div>Higuey, La Altagracia, Rep. Dom.</div>
                 </div>
                 <div class="social">
                     <a href="#"><i class="fab fa-twitter"></i></a>
-                    <a href="#"><i class="fab fa-facebook-f"></i></a>
-                    <a href="#"><i class="fab fa-instagram"></i></a>
+                    <a href="fb.com/devussoftware"><i class="fab fa-facebook-f"></i></a>
+                    <a href="https://www.instagram.com/devussoftware"><i class="fab fa-instagram"></i></a>
                 </div>
             </div>
         </div>
