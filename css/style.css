@@ -986,8 +986,8 @@
 -------------------------------------------------------------------*/
 #footer{
     background-color: #ffffff;
-    padding-top: 60px;
-    padding-bottom: 80px;
+    padding-top: 40px;
+    padding-bottom: 40px;
 }
 #footer .logo-mini{
     display: block;
@@ -1011,7 +1011,7 @@
     font-size: 14px;
     color: #798093;
     margin: 0;
-    margin-bottom: 10px;
+    margin-bottom: 0px;
     font-family: 'Montserrat-SemiBold', sans-serif;
     font-weight: 400;
 }
