@@ -46,7 +46,7 @@
         <div class="row">
             <div class="col-md-12 text-center">
                 <div class="big-title">Lleva tu Negocio al Mundo Digital.</div>
-                <div class="sub-title">Es el Momento de la Transformación Digital. Recibe nuestras asesorías y servicios personalizados en TIC para aumentar el alcance de tu negocio</div>
+                <div class="sub-title">Es el Momento de la Transformación Digital. Recibe nuestras asesorías y servicios personalizados<br> en TIC para aumentar el alcance de tu negocio o empresa</div>
                 <div class="domain-search-holder">
                     <form id="domain-search">
                         <input id="domain-text" type="text" name="domain" placeholder="Entra Tu Correo Electronico" />
@@ -73,9 +73,8 @@
     <div class="container">
         <div class="row">
             <div class="col-md-12">
-                <div class="row-title">World Class Hosting</div>
-                <div class="row-subtitle">Sed lectus mauris, interdum at luctus vel, lobortis semper nisi.<br />
-                    Integer vel porttitor sem. Aliquam erat volutpat.
+                <div class="row-title">Devus Software, Tu Solución</div>
+                <div class="row-subtitle">Es el momento para empezar con todo, Devus Software te guiará
                 </div>
             </div>
         </div>
@@ -84,34 +83,25 @@
                 <div class="feature-box">
                     <div class="box-bg"></div>
                     <div class="feature-icon"><i class="hsto hsto-cloud-computing"></i></div>
-                    <div class="feature-title">Knowledge base</div>
-                    <div class="feature-details">Mauris at libero sed justo pretium maximus ac non ex. Donec sit amet ultrices dolo.</div>
-                    <div class="feature-button">
-                        <a class="all-feature-button" href="#info">All Features</a>
-                    </div>
+                    <div class="feature-title">Conocimiento Base</div>
+                    <div class="feature-details">Devus Software es una empresa creada por jovenes profesionales en la informatica, con amplios conocimientos del sector y con soluciones para todo tipo de casos</div>
                 </div>
             </div>
             <div class="col-md-4">
                 <div class="feature-box active">
                     <div class="box-bg"></div>
                     <div class="feature-icon"><i class="hsto hsto-mouse"></i></div>
-                    <div class="feature-title">Insured Safety</div>
-                    <div class="feature-details">Aliquam consectetur aliquet libero, ut viverra velit bibendum a. Nullam et sapien ac eros feugiat sollicitudin.</div>
-                    <div class="feature-button">
-                        <a class="all-feature-button" href="#info">All Features</a>
-                    </div>
+                    <div class="feature-title">Seguridad y Confianza</div>
+                    <div class="feature-details">La seguridad y la confianza es un elemento escencial en la relación con nuestros clientes. Los clientes confían en nosotros para poner su proyecto en nuestras manos.</div>
                 </div>
             </div>
             <div class="col-md-4">
                 <div class="feature-box">
                     <div class="box-bg"></div>
                     <div class="feature-icon"><i class="hsto hsto-worldwide"></i></div>
-                    <div class="feature-title">Easy steps</div>
-                    <div class="feature-details">Sed faucibus lectus quis tellus fermentum gravida. Lorem ipsum dolor sit amet, consectetur adipiscing elit.</div>
-                    <div class="feature-button">
-                        <a class="all-feature-button" href="#info">All Features</a>
-                    </div>
-                </div>
+                    <div class="feature-title">Rapidez </div>
+                    <div class="feature-details">El resultado de un buen negocio es un cliente satisfecho. En Devus Software logramos esto gracias a nuestra capacidad de llevar a cabo nuestros proyectos con rapidez y eficacia. </div>
+                  </div>
             </div>
         </div>
     </div>
@@ -120,70 +110,67 @@
     <div class="container">
         <div class="row">
             <div class="col-md-12">
-                <div class="row-title">Our Services</div>
-                <div class="row-subtitle">Vestibulum aliquam erat eu dictum porttitor.<br /> Aliquam feugiat risus lorem, non tempor purus egestas at.
+                <div class="row-title">Nuestros Servicios</div>
+                <div class="row-subtitle">No importa lo grande que eres, pública o privada, ni en qué industrias o sectores te especializas, <br>podemos ayudarte a trabajar en tus necesidades y alcanzar tus metas. Conoce los servicios que ofrecemos, a continuación.
 </div>
             </div>
         </div>
         <div class="row">
             <div class="col-sm-6 col-md-4">
                 <div class="pricing-box green-after best-seller">
-                    <div class="pricing-icon green-color"><i class="hsto hsto-technology"></i></div>
-                    <div class="pricing-title">Web Hosting</div>
+                    <div class="pricing-icon green-color"><img src="images/iconservices.png" alt="Diseño Web" style="width:100px;  border-radius: 50%;"></i></div>
+                    <div class="pricing-title">Diseño Web</div>
                     <div class="pricing-details">
                         <ul>
-                            <li>Mauris venenatis sem enim</li>
+                            <li>Asesorias, Creación de Página Web y Landing Pages</li>
                         </ul>
                     </div>
                     <div class="pricing-amount">
-                        <div>Starting at</div>
+                        <div>Desde</div>
                         <div class="price">
                             <span class="currency">$</span>
-                            <span class="amount">3.8</span>
-                            <span class="duration"> / Month</span>
+                            <span class="amount">199.99</span>
                         </div>
                     </div>
-                    <div class="pricing-button"><a href="whosting.html" class="green-button">Start today</a></div>
+                    <div class="pricing-button"><a href="desarrolloweb.html" class="green-button">Contáctanos Hoy</a></div>
                 </div>
             </div>
             <div class="col-sm-6 col-md-4">
                 <div class="pricing-box pink-after">
-                    <div class="pricing-icon pink-color"><i class="hsto hsto-cloud"></i></div>
-                    <div class="pricing-title">Cloud Hosting</div>
+                    <div class="pricing-icon pink-color"><img src="images/iconservices2.png" alt="Sistemas Web" style="width:100px;  border-radius: 50%;"></i></div>
+                    <div class="pricing-title">Sistemas Web</div>
                     <div class="pricing-details">
                         <ul>
-                            <li>Nunc sed consectetur mauris</li>
+                            <li>Sistemas Pos, Sistemas de cita/calendarios, Sistemas ERP, etc...</li>
                         </ul>
                     </div>
                     <div class="pricing-amount">
-                        <div>Starting at</div>
+                        <div>Desde</div>
                         <div class="price">
                             <span class="currency">$</span>
-                            <span class="amount">58.9</span>
-                            <span class="duration"> / Month</span>
+                            <span class="amount">199.99</span>
                         </div>
                     </div>
-                    <div class="pricing-button"><a href="chosting.html" class="pink-button">I want this</a></div>
+                    <div class="pricing-button"><a href="sistemasweb.html" class="pink-button">Quiero Uno!</a></div>
                 </div>
             </div>
             <div class="col-sm-12 col-md-4">
                 <div class="pricing-box purple-after">
-                    <div class="pricing-icon purple-color"><i class="hsto hsto-computer"></i></div>
-                    <div class="pricing-title">Dedicated hosting</div>
+                    <div class="pricing-icon purple-color"><img src="images/iconservices3.png" alt="Branding" style="width:100px;  border-radius: 50%;"></i></div>
+                    <div class="pricing-title">Diseño de Linea Gráfica</div>
                     <div class="pricing-details">
                         <ul>
-                            <li>Cras interdum nibh mattis tellus</li>
+                            <li>Linea Grafica Empresarial, Logos, Tarjetas de Presentación, Brochure, etc.</li>
                         </ul>
                     </div>
                     <div class="pricing-amount">
-                        <div>Starting at</div>
+                        <div>Desde</div>
                         <div class="price">
                             <span class="currency">$</span>
-                            <span class="amount">288.9</span>
-                            <span class="duration"> / Month</span>
+                            <span class="amount"> 29.99</span>
                         </div>
                     </div>
-                    <div class="pricing-button"><a href="dhosting.html" class="purple-button">Let's go!</a></div>
+                    <div class="pricing-button"><a href="lineagrafica.html" class="purple-button">Vamos a Diseñar!</a></div>
                 </div>
             </div>
         </div>
