@@ -12,7 +12,7 @@
 
 <body>
 
-	<nav id="mainNav" class="navbar navbar-default navbar-full">
+<nav id="mainNav" class="navbar navbar-default navbar-full">
 		<div class="container container-nav">
 			<div class="navbar-header">
 				<button aria-expanded="false" type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs">
@@ -20,28 +20,28 @@
                 <span class="icon-bar"></span>
                 <span class="icon-bar"></span>
             </button>
-            <a class="navbar-brand page-scroll" href="index.html">
+            <a class="navbar-brand page-scroll" href="index.php">
                 <img class="logo" src="images/logo.png" alt="Devus">
             </a>
         </div>
         <div style="height: 1px;" role="main" aria-expanded="false" class="navbar-collapse collapse" id="bs">
              <ul class="nav navbar-nav navbar-right">
-                <li><a href="about.html">Sobre Nosotros</a></li>
+                <li><a href="about.php">Sobre Nosotros</a></li>
                 <li class="dropdown active">
-                    <a href="hosting.html">Servicios<span class="caret"></span></a>
+                    <a href="servicios.php">Servicios<span class="caret"></span></a>
                     <ul class="dropdown-menu">
-                      <li><a href="desarrolloweb.html">Desarrollo Web</a></li>
-                      <li><a href="chosting.html">Cloud Hosting</a></li>
-                      <li><a href="dhosting.html">Dedicated Hosting</a></li>
+                      <li><a href="desarrolloweb.php">Desarrollo Web</a></li>
+                      <li><a href="sistemasweb.php">Sistemas Web</a></li>
+                      <li><a href="lineagrafica.php">Linea Gráfica</a></li>
                     </ul>
                 </li>
-                <li><a href="support.html">Ayuda & Soporte</a></li>
-                <li><a href="contact.html">Contactanos</a></li>
+                <li><a href="support.php">Ayuda & Soporte</a></li>
+                <li><a href="contact.php">Contactanos</a></li>
                 <li><a class="chat-button" href="#">Chat now</a></li>
             </ul>
         </div>
     </div>
-</nav>
+ </nav>
 <div id="top-content" class="container-fluid inner-page">
     <div class="container">
         <div class="row">
@@ -148,7 +148,7 @@
         <div class="row">
             <div class="col-md-12">
                 <div class="text">Haremos la página web de tus sueños.<br>
-Empresas que ya confiaron en nosotros: 
+                 Empresas que ya confiaron en nosotros: 
 </div>
             </div>
         </div>
@@ -197,6 +197,7 @@ Empresas que ya confiaron en nosotros:
                             <div class="tool-tip">Constructora Thomás de la Rosa</div>
                             <img src="./images/logoconstructora.png" alt="logoconstructora" />
                         </div>
+                    </li>    
                 </ul>
             </div>
         </div>

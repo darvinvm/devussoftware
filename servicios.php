@@ -3,132 +3,124 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1,maximum-scale=1, user-scalable=no">
-<title>Hostio</title>
+<title>Devus Software | Servicios</title>
 <link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
 <link rel="stylesheet" type="text/css" href="css/fontawesome-all.min.css">
 <link rel="stylesheet" type="text/css" href="css/style.css">
 </head>
 
 <body>
-
 <nav id="mainNav" class="navbar navbar-default navbar-full">
-    <div class="container container-nav">
-        <div class="navbar-header">
-            <button aria-expanded="false" type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs">
+		<div class="container container-nav">
+			<div class="navbar-header">
+				<button aria-expanded="false" type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs">
                 <span class="icon-bar"></span>
                 <span class="icon-bar"></span>
                 <span class="icon-bar"></span>
             </button>
-            <a class="navbar-brand page-scroll" href="index.html">
-                <img class="logo" src="images/logo.png" alt="Hostio">
+            <a class="navbar-brand page-scroll" href="index.php">
+                <img class="logo" src="images/logo.png" alt="Devus">
             </a>
         </div>
         <div style="height: 1px;" role="main" aria-expanded="false" class="navbar-collapse collapse" id="bs">
              <ul class="nav navbar-nav navbar-right">
-                <li><a href="about.html">About us</a></li>
+                <li><a href="about.php">Sobre Nosotros</a></li>
                 <li class="dropdown active">
-                    <a href="hosting.html">Hosting <span class="caret"></span></a>
+                    <a href="servicios.php">Servicios<span class="caret"></span></a>
                     <ul class="dropdown-menu">
-                      <li><a href="whosting.html">Web Hosting</a></li>
-                      <li><a href="chosting.html">Cloud Hosting</a></li>
-                      <li><a href="dhosting.html">Dedicated Hosting</a></li>
+                      <li><a href="desarrolloweb.php">Desarrollo Web</a></li>
+                      <li><a href="sistemasweb.php">Sistemas Web</a></li>
+                      <li><a href="lineagrafica.php">Linea Gráfica</a></li>
                     </ul>
                 </li>
-                <li><a href="support.html">Help & Support</a></li>
-                <li><a href="contact.html">Contact us</a></li>
-                <li><a class="login-button" href="login.html">Login</a></li>
+                <li><a href="support.php">Ayuda & Soporte</a></li>
+                <li><a href="contact.php">Contactanos</a></li>
                 <li><a class="chat-button" href="#">Chat now</a></li>
             </ul>
         </div>
     </div>
-</nav>
+ </nav>
 <div id="top-content" class="container-fluid inner-page">
     <div class="container">
         <div class="row">
             <div class="col-md-12 text-center">
-                <div class="page-title">Hosting</div>
-                <div class="page-subtitle">Mauris at libero sed justo pretium maximus ac non ex. Donec sit amet ultrices dolo.</div>
+                <div class="page-title">SERVICIOS</div>
+                <div class="page-subtitle">Devus Software ofrece un monton de soluciones en el area de las TICs, Cada día sumando más.</div>
             </div>
         </div>
     </div>
 </div>
-<div id="pricing" class="container-fluid">
+
+ <div id="pricing" class="container-fluid">
     <div class="container">
-        <div class="row">
-            <div class="col-md-12">
-                <p>Sed sollicitudin, diam nec tristique tincidunt, nulla ligula facilisis nunc, non condimentum tortor leo id ex. Suspendisse eget accumsan massa, venenatis fermentum dui. In hac habitasse platea dictumst.</p>
-            </div>
-        </div>
         <div class="row">
             <div class="col-sm-6 col-md-4">
                 <div class="pricing-box green-after best-seller">
-                    <div class="pricing-icon green-color"><i class="hsto hsto-technology"></i></div>
-                    <div class="pricing-title">Web Hosting</div>
+                    <div class="pricing-icon green-color"><img src="images/iconservices.png" alt="Diseño Web" style="width:100px;  border-radius: 50%;"></i></div>
+                    <div class="pricing-title">Diseño Web</div>
                     <div class="pricing-details">
                         <ul>
-                            <li>Mauris venenatis sem enim</li>
+                            <li>Asesorias, Creación de Página Web y Landing Pages, Correo Empresarial, etc.</li>
                         </ul>
                     </div>
                     <div class="pricing-amount">
-                        <div>Starting at</div>
+                        <div>Desde</div>
                         <div class="price">
                             <span class="currency">$</span>
-                            <span class="amount">3.8</span>
-                            <span class="duration"> / Month</span>
+                            <span class="amount">199.99</span>
                         </div>
                     </div>
-                    <div class="pricing-button"><a href="#" class="green-button">Start today</a></div>
+                    <div class="pricing-button"><a href="desarrolloweb.php" class="green-button">Contáctanos Hoy</a></div>
                 </div>
             </div>
             <div class="col-sm-6 col-md-4">
                 <div class="pricing-box pink-after">
-                    <div class="pricing-icon pink-color"><i class="hsto hsto-cloud"></i></div>
-                    <div class="pricing-title">Cloud Hosting</div>
+                    <div class="pricing-icon pink-color"><img src="images/iconservices2.png" alt="Sistemas Web" style="width:100px;  border-radius: 50%;"></i></div>
+                    <div class="pricing-title">Sistemas Web</div>
                     <div class="pricing-details">
                         <ul>
-                            <li>Nunc sed consectetur mauris</li>
+                            <li>Sistemas Pos, Sistemas de cita/calendarios, Sistemas ERP, Sistemas CRM etc...</li>
                         </ul>
                     </div>
                     <div class="pricing-amount">
-                        <div>Starting at</div>
+                        <div>Desde</div>
                         <div class="price">
                             <span class="currency">$</span>
-                            <span class="amount">58.9</span>
-                            <span class="duration"> / Month</span>
+                            <span class="amount">199.99</span>
                         </div>
                     </div>
-                    <div class="pricing-button"><a href="#" class="pink-button">I want this</a></div>
+                    <div class="pricing-button"><a href="sistemasweb.php" class="pink-button">Quiero Uno!</a></div>
                 </div>
             </div>
             <div class="col-sm-12 col-md-4">
                 <div class="pricing-box purple-after">
-                    <div class="pricing-icon purple-color"><i class="hsto hsto-computer"></i></div>
-                    <div class="pricing-title">Dedicated hosting</div>
+                    <div class="pricing-icon purple-color"><img src="images/iconservices3.png" alt="Branding" style="width:100px;  border-radius: 50%;"></i></div>
+                    <div class="pricing-title">Linea Gráfica y RRSS</div>
                     <div class="pricing-details">
                         <ul>
-                            <li>Cras interdum nibh mattis tellus</li>
+                            <li>Linea Grafica Empresarial, Logo, Brochure, Asesorias y Promoción en Redes Sociales etc.</li>
                         </ul>
                     </div>
                     <div class="pricing-amount">
-                        <div>Starting at</div>
+                        <div>Desde</div>
                         <div class="price">
                             <span class="currency">$</span>
-                            <span class="amount">288.9</span>
-                            <span class="duration"> / Month</span>
+                            <span class="amount"> 29.99</span>
                         </div>
                     </div>
-                    <div class="pricing-button"><a href="#" class="purple-button">Let's go!</a></div>
+                    <div class="pricing-button"><a href="lineagrafica.php" class="purple-button">Vamos a Diseñar!</a></div>
                 </div>
-            </div>
         </div>
+    </div>
+</div>
     </div>
 </div>
 <div id="get-started" class="container-fluid">
     <div class="container">
         <div class="row">
             <div class="col-md-12">
-                <div class="text">Get started now. Try Hostio Free for 10 days.</div>
-                <a href="#" class="gstart">Get Started</a>
+                <div class="text">No Sabes cómo empezar? Nosotros te ayudamos en el camino hacia la transformación digital.</div><br><br>
+                <a href="#" class="gstart">Empieza hoy!</a>
             </div>
         </div>
     </div>

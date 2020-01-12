@@ -19,23 +19,23 @@
                 <span class="icon-bar"></span>
                 <span class="icon-bar"></span>
             </button>
-            <a class="navbar-brand page-scroll" href="index.html">
+            <a class="navbar-brand page-scroll" href="index.php">
                 <img class="logo" src="images/logo.png" alt="Devus">
             </a>
         </div>
         <div style="height: 1px;" role="main" aria-expanded="false" class="navbar-collapse collapse" id="bs">
              <ul class="nav navbar-nav navbar-right">
-                <li><a href="about.html">Sobre Nosotros</a></li>
+                <li><a href="about.php">Sobre Nosotros</a></li>
                 <li class="dropdown active">
                     <a href="hosting.html">Servicios<span class="caret"></span></a>
                     <ul class="dropdown-menu">
-                      <li><a href="desarrolloweb.html">Desarrollo Web</a></li>
-                      <li><a href="chosting.html">Sistemas Web</a></li>
-                      <li><a href="dhosting.html">Línea Gráfica/Branding</a></li>
+                      <li><a href="desarrolloweb.php">Desarrollo Web</a></li>
+                      <li><a href="sistemasweb.php">Sistemas Web</a></li>
+                      <li><a href="lineagrafica.php">Línea Gráfica/Branding</a></li>
                     </ul>
                 </li>
-                <li><a href="support.html">Ayuda & Soporte</a></li>
-                <li><a href="contact.html">Contactanos</a></li>
+                <li><a href="support.php">Ayuda & Soporte</a></li>
+                <li><a href="contact.php">Contactanos</a></li>
                 <li><a class="chat-button" href="#">Chat now</a></li>
             </ul>
         </div>
@@ -122,7 +122,7 @@
                     <div class="pricing-title">Diseño Web</div>
                     <div class="pricing-details">
                         <ul>
-                            <li>Asesorias, Creación de Página Web y Landing Pages</li>
+                            <li>Asesorias, Creación de Página Web y Landing Pages, Correo Empresarial, etc.</li>
                         </ul>
                     </div>
                     <div class="pricing-amount">
@@ -132,7 +132,7 @@
                             <span class="amount">199.99</span>
                         </div>
                     </div>
-                    <div class="pricing-button"><a href="desarrolloweb.html" class="green-button">Contáctanos Hoy</a></div>
+                    <div class="pricing-button"><a href="desarrolloweb.php" class="green-button">Contáctanos Hoy</a></div>
                 </div>
             </div>
             <div class="col-sm-6 col-md-4">
@@ -141,7 +141,7 @@
                     <div class="pricing-title">Sistemas Web</div>
                     <div class="pricing-details">
                         <ul>
-                            <li>Sistemas Pos, Sistemas de cita/calendarios, Sistemas ERP, etc...</li>
+                            <li>Sistemas Pos, Sistemas de cita/calendarios, Sistemas ERP, Sistemas CRM etc...</li>
                         </ul>
                     </div>
                     <div class="pricing-amount">
@@ -151,16 +151,16 @@
                             <span class="amount">199.99</span>
                         </div>
                     </div>
-                    <div class="pricing-button"><a href="sistemasweb.html" class="pink-button">Quiero Uno!</a></div>
+                    <div class="pricing-button"><a href="sistemasweb.php" class="pink-button">Quiero Uno!</a></div>
                 </div>
             </div>
             <div class="col-sm-12 col-md-4">
                 <div class="pricing-box purple-after">
                     <div class="pricing-icon purple-color"><img src="images/iconservices3.png" alt="Branding" style="width:100px;  border-radius: 50%;"></i></div>
-                    <div class="pricing-title">Diseño de Linea Gráfica</div>
+                    <div class="pricing-title">Linea Gráfica y RRSS</div>
                     <div class="pricing-details">
                         <ul>
-                            <li>Linea Grafica Empresarial, Logos, Tarjetas de Presentación, Brochure, etc.</li>
+                            <li>Linea Grafica Empresarial, Logo, Brochure, Asesorias y Promoción en Redes Sociales etc.</li>
                         </ul>
                     </div>
                     <div class="pricing-amount">
@@ -170,7 +170,7 @@
                             <span class="amount"> 29.99</span>
                         </div>
                     </div>
-                    <div class="pricing-button"><a href="lineagrafica.html" class="purple-button">Vamos a Diseñar!</a></div>
+                    <div class="pricing-button"><a href="lineagrafica.php" class="purple-button">Vamos a Diseñar!</a></div>
                 </div>
             </div>
         </div>
@@ -183,8 +183,9 @@
                 <img class="info-img" src="images/info1.png" alt="info" />
             </div>
             <div class="col-sm-8 col-md-8 info-text-holder">
-                <h3>Why Choose Hostio?</h3>
-                <p>Aliquam consectetur aliquet libero, ut viverra velit bibendum a. Nullam et sapien ac eros feugiat sollicitudin. Nulla euismod lorem nisi, a tempor diam fringilla ut. Nunc sed consectetur mauris. Nullam ac sem elit. Vestibulum porta odio lacinia mauris pulvinar sagittis. Curabitur id cursus leo.</p>
+                <h3>Por qué elegir Devus Software?</h3>
+                <p>Porque prestamos un servicio integral a la empresa, para que el cliente no tenga que preocuparse de nada.
+Por nuestra efectividad, aseguramos resultados. Porque somos un equipo de profesionales que trabajamos volcados para asegurar el éxito de nuestros clientes. Porque jamás dejamos de mejorar nuestros servicios, incluyendo metodologías de desarrollo, prácticas de ingeniería de software, técnicas de gestión y controles de calidad para incrementar las capacidades de nuestro equipo y aumentar la satisfacción del cliente.</p>
             </div>
         </div>
         <div class="row">
@@ -192,8 +193,8 @@
                 <img class="info-img" src="images/info2.png" alt="info" />
             </div>
             <div class="col-sm-8 col-md-8 info-text-holder text-right">
-                <h3>Transferring From Another Host?</h3>
-                <p>Etiam condimentum metus rhoncus purus pharetra tempor. Sed faucibus lectus quis tellus fermentum gravida. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla egestas dapibus semper. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.</p>
+                <h3>La Calidad de nuestros servicios</h3>
+                <p>En Devus Software ofrecemos y transmitimos autenticidad, confianza, seguridad, diseño, confort y durabilidad en todos nuestros productos con hechos. Siempre analizamos los productos para ver en qué pueden ser mejorados y con su implantación alcanzar resultados positivos. Todo ello es valor añadido al producto siendo una consideración reconocida por el usuario superior al precio.</p>
             </div>
         </div>
         <div class="row rtl-cols">
@@ -201,8 +202,9 @@
                 <img class="info-img" src="images/info3.png" alt="info" />
             </div>
             <div class="col-sm-8 col-md-8 info-text-holder">
-                <h3>Why Choose Hostio?</h3>
-                <p>Curabitur vulputate dignissim pretium. Integer viverra dignissim elit. Vestibulum aliquam erat eu dictum porttitor. Aliquam feugiat risus lorem, non tempor purus egestas at. Nulla imperdiet tortor id aliquet gravida. Phasellus dapibus id dolor viverra ultricies. Suspendisse ut finibus nulla.</p>
+                <h3>Nuestra Atención</h3>
+                <p>Al equipo que conformamos Devus Software, formado por un grupo de jovenes, nos apasiona ofrecer la mejor atención personalizada a nuestros clientes en todo tipo servicios relacionadas con el área TICs. tratamos a cada cliente como si fuera el único.
+Porque su empresa y su proyecto son importantes para nosotros.</p>
             </div>
         </div>
     </div>
@@ -211,9 +213,8 @@
     <div class="container">
         <div class="row">
             <div class="col-md-12">
-                <div class="row-title">Ready to have your own website?</div>
-                <div class="row-subtitle">Phasellus accumsan nisi eu arcu condimentum sollicitudin. Nulla auctor quis est at suscipit. <br>
-Maecenas ac urna eget magna vulputate interdum.</div>
+                <div class="row-title">Estás listo para adentrarte en el mundo digital?</div>
+                <div class="row-subtitle">Inicia hoy, contáctanos y obtén los mejores precios y servicios que hay en el mercado</div>
             </div>
         </div>
         <div class="row">
