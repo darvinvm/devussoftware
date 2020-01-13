@@ -7,6 +7,9 @@
 <link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
 <link rel="stylesheet" type="text/css" href="css/fontawesome-all.min.css">
 <link rel="stylesheet" type="text/css" href="css/style.css">
+<style>
+#more {display: none;}
+</style>
 </head>
 
 <body>
@@ -119,12 +122,85 @@
     <div class="container">
         <div class="row">
             <div class="col-md-12">
+                <span id="dots"></span>
                 <div class="text">No Sabes cómo empezar? Nosotros te ayudamos en el camino hacia la transformación digital.</div><br><br>
-                <a href="#" class="gstart">Empieza hoy!</a>
+                <span id="more">  
+                    <div id="details" class="container-fluid">
+                        <div class="container">
+                            <div class="row">
+                                <div class="col-md-7">
+                                    <div class="col-title">Formulario de contacto</div>
+                                    <form id="contactform" method="post" autocomplete="off"  action="EnviarMensage.php">
+                                        <div class="form-items-holder">
+                                            <div class="form-text">
+                                                <input type="text" name="nombre" placeholder="Nombre" required>
+                                            </div>
+                                            <div class="form-text">
+                                                <input type="email" name="email" placeholder="Email">
+                                            </div>
+                                            <div class="form-text">
+                                                <input type="text" name="tel" placeholder="Telefono/Celular" required>
+                                            </div>
+                                            <div class="form-text">
+                                                <textarea name="mensage" placeholder="Escriba su mensaje aqui" required></textarea>
+                                            </div>
+                                            <div class="form-button"><input id="submit" type="submit" value="Enviar mensaje"></div>
+                                        </div>
+                                    </form>
+                                </div>
+                                <div class="col-md-5 contacts">
+                                    <div class="col-title">Otros contactos</div>
+                                    <h4>Nuestra oficina</h4>
+                                    <p>Higuey, La Altagracia, Rep. Dom.</p>
+
+                                    <h4>Telefonos</h4>
+                                    <p>
+                                    <div class="phone"> <a href="tel:+18292687105"><i class="fas fa-mobile"></i> 829-268-7105</a></div>
+                                    <div class="phone"> <a href="tel:+18088726307"><i class="fas fa-phone"></i> 809-872-6307</a></div>
+                                    </p>
+
+                                    <h4>Nuestros correos</h4>
+                        <p>
+                            <div class="email"> <a href="mailto:info@devus.software"><i class="fas fa-envelope" style="color: #1f8ded;"></i> info@devus.software</a></div>
+                            <div class="email"> <a href="mailto:ceo@devus.software"><i class="fas fa-envelope" style="color: #1f8ded;"></i> ceo@devus.software</a></div>
+                            <div class="email"> <a href="mailto:coo@devus.software"><i class="fas fa-envelope" style="color: #1f8ded;"></i> coo@devus.software</a></div>
+                         </p>
+                <!--
+                <a class="lg-link" href="support.html">Technical Support <i class="fas fa-arrow-right" aria-hidden="true"></i></a>
+                #se comento esta parte del codigo porque hasta el momento es innecesario-->
+                           <p class=""><br>No esperes más!!!<br>Ponte en contacto con nosotros.</p>
+                            </div>
+                         </div>
+                      </div>
+                   </div>
+                </span>
+                   <div>
+                        <button onclick="myFunction()" id="myBtn" class="gstart" style= "border: none">Empieza hoy!</button>
+                    </div>
             </div>
         </div>
     </div>
 </div>
+<script>
+function myFunction() {
+  var dots = document.getElementById("dots");
+  var moreText = document.getElementById("more");
+  var btnText = document.getElementById("myBtn");
+
+  if (dots.style.display === "none") {
+    dots.style.display = "inline";
+    btnText.innerHTML = "Contactanos"; 
+    moreText.style.display = "none";
+  } else {
+    dots.style.display = "none";
+    btnText.style.display = "none";
+    moreText.style.display = "inline";
+  }
+}
+</script>
+
+
+
 <div id="footer" class="container-fluid">
     <div class="container">
         <div class="row">
