@@ -928,13 +928,13 @@
     top: -55px;
 }
 .testimonial-box .testimonial-image img{
-    width: 86px;
+    width: 132px;
     border-radius: 100px;
 }
 .testimonial-box .testimonial-title{
     font-size: 15px; 
     color: #283e4f;
-    margin-top: 20px;
+    margin-top: 64px;
     margin-bottom: 8px;
 }
 .testimonial-box .testimonial-details {
