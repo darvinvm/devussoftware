@@ -25,8 +25,8 @@
         </div>
         <div style="height: 1px;" role="main" aria-expanded="false" class="navbar-collapse collapse" id="bs">
              <ul class="nav navbar-nav navbar-right">
-                <li><a href="about.php">Sobre Nosotros</a></li>
-                <li class="dropdown active">
+                <li><a href="about.html">Sobre Nosotros</a></li>
+                <li class="dropdown">
                     <a href="hosting.html">Servicios<span class="caret"></span></a>
                     <ul class="dropdown-menu">
                       <li><a href="desarrolloweb.php">Desarrollo Web</a></li>
@@ -35,7 +35,7 @@
                     </ul>
                 </li>
                 <li><a href="support.php">Ayuda & Soporte</a></li>
-                <li><a href="contact.php">Contactanos</a></li>
+                <li><a href="contact.html">Contactanos</a></li>
                 <li><a class="chat-button" href="#">Chat now</a></li>
             </ul>
         </div>
@@ -282,7 +282,7 @@ Porque su empresa y su proyecto son importantes para nosotros.</p>
                     <div class="testimonial-image"><img src="images/t1.jpg" alt="person" /></div>
                     <div class="testimonial-title">Darvin Villavicencio<br><i>Lic. en Informatica</i></div>
                     <div class="testimonial-details">Lorem Ipsum which looks reasonable generated as default model as and search many web sites pass websites is therefore always.</div>
-                    <div class="testimonial-info"><span class="name">Sigueme en mis redes sociales</span></div>
+                    <div class="testimonial-info"><span class="name">Sígueme en mis redes sociales</span></div>
                     <i class="fa fa-arrow-down"></i></a>
                     <div class="social">
                         <a href="https://www.facebook.com/kency.beras"><i class="fab fa-facebook-f"></i></a>
@@ -296,11 +296,11 @@ Porque su empresa y su proyecto son importantes para nosotros.</p>
                 <div class="testimonial-box">
                     <div class="testimonial-image"><img src="images/t2.jpg" alt="person" /></div>
                     <div class="testimonial-title">Kenci Beras<br><i>Lic. en Informatica</i></div>
-                    <div class="testimonial-details"> Egresado de la universidad del caribe, joven talentoso
+                    <div class="testimonial-details"> Egresado de la Universidad del Caribe, joven talentoso
                         con amplios conocimientos en las nuevas tecnologías del software.<br>Su experiencia dentro del
-                        mercados de la tecnología lo hacen un candidato esencial para formar parte de nuestro equipo.
+                        mercado de la tecnología lo hacen un candidato esencial para formar parte de nuestro equipo.
                     </div>
-                    <div class="testimonial-info"><span class="name">Sigueme</span></div>
+                    <div class="testimonial-info"><span class="name">Sígueme</span></div>
                     <i class="fa fa-arrow-down"></i></a>
                     <div class="social">
                         <a href="https://www.facebook.com/kency.beras"><i class="fab fa-facebook-f"></i></a>
@@ -317,8 +317,8 @@ Porque su empresa y su proyecto son importantes para nosotros.</p>
     <div class="container">
         <div class="row">
             <div class="col-md-12">
-                <div class="text">Get started now. Try Hostio Free for 10 days.</div>
-                <a href="contact.html" class="gstart">Get Started</a>
+                <div class="text">Contactamos ahora!<br>Pregunta por nuestra oferta para emprendedores. </div>
+                <a href="contact.html" class="gstart">Vamos</a>
             </div>
         </div>
     </div>
