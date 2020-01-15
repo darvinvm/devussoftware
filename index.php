@@ -35,7 +35,7 @@
                     </ul>
                 </li>
                 <li><a href="support.php">Ayuda & Soporte</a></li>
-                <li><a href="contact.php">Contactanos</a></li>
+                <li><a href="contact.html">Contactanos</a></li>
                 <li><a class="chat-button" href="#">Chat now</a></li>
             </ul>
         </div>
@@ -270,52 +270,46 @@ Porque su empresa y su proyecto son importantes para nosotros.</p>
     <div class="container">
         <div class="row">
             <div class="col-md-12">
-                <div class="row-title">Don’t take our word for it</div>
-                <div class="row-subtitle">We’re loved by great customers all around the world!<br>
-Here’re some of their opinions about us</div>
+                <div class="row-title">Nuestros lideres</div>
+                <div class="row-subtitle">Detrás de cada proyecto desarrollado hay un gran equipo que haciéndolo posible.<br> 
+                Conoce quien esta a cargo de todo esto, ellos hacen que cada proyecto se convierta en un acto de admiración y satisfacción.</div>
             </div>
         </div>
+         <!--team 1-->
         <div class="row">
-            <div class="col-sm-6 col-md-4">
+            <div class="col-sm-12 col-md-5">
                 <div class="testimonial-box">
                     <div class="testimonial-image"><img src="images/t1.jpg" alt="person" /></div>
-                    <div class="testimonial-title">Great Services!</div>
+                    <div class="testimonial-title">Darvin Villavicencio<br><i>Lic. en Informatica</i></div>
                     <div class="testimonial-details">Lorem Ipsum which looks reasonable generated as default model as and search many web sites pass websites is therefore always.</div>
-                    <div class="testimonial-info"><span class="name">John Doe</span> - Manager @ Brandio</div>
+                    <div class="testimonial-info"><span class="name">Sígueme en mis redes sociales</span></div>
+                    <i class="fa fa-arrow-down"></i></a>
+                    <div class="social">
+                        <a href="https://www.facebook.com/kency.beras"><i class="fab fa-facebook-f"></i></a>
+                        <a href="https://www.linkedin.com/in/kenci-jenier-beras-custodio-22b137150/"><i class="fab fa-linkedin"></i></a>
+                        <a href="https://www.instagram.com/devussoftware"><i class="fab fa-instagram"></i></a>
+                    </div>
                 </div>
             </div>
-            <div class="col-sm-6 col-md-4">
+            <!--team 2-->
+            <div class="col-sm-12 col-md-5">
                 <div class="testimonial-box">
                     <div class="testimonial-image"><img src="images/t2.jpg" alt="person" /></div>
-                    <div class="testimonial-title">Great Services!</div>
-                    <div class="testimonial-details">Lorem Ipsum which looks reasonable generated as default model as and search many web sites pass websites is therefore always.</div>
-                    <div class="testimonial-info"><span class="name">John Doe</span> - Manager @ Brandio</div>
+                    <div class="testimonial-title">Kenci Beras<br><i>Lic. en Informatica</i></div>
+                    <div class="testimonial-details"> Egresado de la Universidad del Caribe, joven talentoso
+                        con amplios conocimientos en las nuevas tecnologías del software.<br>Su experiencia dentro del
+                        mercado de la tecnología lo hacen un candidato esencial para formar parte de nuestro equipo.
+                    </div>
+                    <div class="testimonial-info"><span class="name">Sígueme</span></div>
+                    <i class="fa fa-arrow-down"></i></a>
+                    <div class="social">
+                        <a href="https://www.facebook.com/kency.beras"><i class="fab fa-facebook-f"></i></a>
+                        <a href="https://www.linkedin.com/in/kenci-jenier-beras-custodio-22b137150/"><i class="fab fa-linkedin"></i></a>
+                        <a href="https://www.instagram.com/devussoftware"><i class="fab fa-instagram"></i></a>
+                    </div>
                 </div>
             </div>
-            <div class="col-sm-6 col-md-4">
-                <div class="testimonial-box">
-                    <div class="testimonial-image"><img src="images/t3.jpg" alt="person" /></div>
-                    <div class="testimonial-title">Great Services!</div>
-                    <div class="testimonial-details">Lorem Ipsum which looks reasonable generated as default model as and search many web sites pass websites is therefore always.</div>
-                    <div class="testimonial-info"><span class="name">John Doe</span> - Manager @ Brandio</div>
-                </div>
-            </div>
-            <div class="col-sm-6 col-md-4">
-                <div class="testimonial-box">
-                    <div class="testimonial-image"><img src="images/t4.jpg" alt="person" /></div>
-                    <div class="testimonial-title">Great Services!</div>
-                    <div class="testimonial-details">Lorem Ipsum which looks reasonable generated as default model as and search many web sites pass websites is therefore always.</div>
-                    <div class="testimonial-info"><span class="name">John Doe</span> - Manager @ Brandio</div>
-                </div>
-            </div>
-            <div class="col-sm-6 col-md-4">
-                <div class="testimonial-box">
-                    <div class="testimonial-image"><img src="images/t5.jpg" alt="person" /></div>
-                    <div class="testimonial-title">Great Services!</div>
-                    <div class="testimonial-details">Lorem Ipsum which looks reasonable generated as default model as and search many web sites pass websites is therefore always.</div>
-                    <div class="testimonial-info"><span class="name">John Doe</span> - Manager @ Brandio</div>
-                </div>
-            </div>
+            <!--team 2-->
         </div>
     </div>
 </div>
@@ -323,8 +317,8 @@ Here’re some of their opinions about us</div>
     <div class="container">
         <div class="row">
             <div class="col-md-12">
-                <div class="text">Get started now. Try Hostio Free for 10 days.</div>
-                <a href="contact.html" class="gstart">Get Started</a>
+                <div class="text">Contactamos ahora!<br>Pregunta por nuestra oferta para emprendedores. </div>
+                <a href="contact.html" class="gstart">Vamos</a>
             </div>
         </div>
     </div>
