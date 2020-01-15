@@ -184,7 +184,7 @@
             </div>
             <div class="col-sm-8 col-md-8 info-text-holder">
                 <h3>Por qué elegir Devus Software?</h3>
-                <p>Porque prestamos un servicio integral a la empresa, para que el cliente no tenga que preocuparse de nada.
+                <p>Prestamos un servicio integral a la empresa, para que el cliente no tenga que preocuparse de nada.
 Por nuestra efectividad, aseguramos resultados. Porque somos un equipo de profesionales que trabajamos volcados para asegurar el éxito de nuestros clientes. Porque jamás dejamos de mejorar nuestros servicios, incluyendo metodologías de desarrollo, prácticas de ingeniería de software, técnicas de gestión y controles de calidad para incrementar las capacidades de nuestro equipo y aumentar la satisfacción del cliente.</p>
             </div>
         </div>
@@ -219,7 +219,7 @@ Porque su empresa y su proyecto son importantes para nosotros.</p>
         </div>
         <div class="row">
             <div class="col-md-12">
-                <a href="whosting.html" class="get-started-button">Get Started</a>
+                <a href="desarrolloweb.php" class="get-started-button">Empieza ya</a>
             </div>
         </div>
     </div>
@@ -228,8 +228,7 @@ Porque su empresa y su proyecto son importantes para nosotros.</p>
     <div class="container">
         <div class="row">
             <div class="col-md-12">
-                <div class="row-title">Hostio Guarantees</div>
-                <div class="row-subtitle">Etiam condimentum metus rhoncus purus pharetra tempor. <br />Sed faucibus lectus quis tellus fermentum gravida.</div>
+                <div class="row-title">Garantías de Devus Software</div>
             </div>
         </div>
         <div class="row">
@@ -239,8 +238,7 @@ Porque su empresa y su proyecto son importantes para nosotros.</p>
                         <div class="icon-bg"><img src="images/cloud1.png" alt="cloud" /></div>
                         <i class="hsto hsto-medal"></i>
                     </div>
-                    <div class="mfeature-title">World Class Hosting</div>
-                    <div class="mfeature-details">Mauris at libero sed justo pretium maximus ac non ex. Donec sit amet ultrices dolo.</div>
+                    <div class="mfeature-title">Número 1 de la Región</div>
                 </div>
             </div>
             <div class="col-md-4">
@@ -249,8 +247,7 @@ Porque su empresa y su proyecto son importantes para nosotros.</p>
                         <div class="icon-bg"><img src="images/cloud2.png" alt="cloud" /></div>
                         <i class="hsto hsto-hours-support"></i>
                     </div>
-                    <div class="mfeature-title">Great Support</div>
-                    <div class="mfeature-details">Mauris at libero sed justo pretium maximus ac non ex. Donec sit amet ultrices dolo.</div>
+                    <div class="mfeature-title">Gran Soporte</div>
                 </div>
             </div>
             <div class="col-md-4">
@@ -259,8 +256,7 @@ Porque su empresa y su proyecto son importantes para nosotros.</p>
                         <div class="icon-bg"><img src="images/cloud3.png" alt="cloud" /></div>
                         <i class="hsto hsto-money"></i>
                     </div>
-                    <div class="mfeature-title">38 Day Guarantee</div>
-                    <div class="mfeature-details">Mauris at libero sed justo pretium maximus ac non ex. Donec sit amet ultrices dolo.</div>
+                    <div class="mfeature-title">Garantía de Servicio</div>
                 </div>
             </div>
         </div>
@@ -279,9 +275,11 @@ Porque su empresa y su proyecto son importantes para nosotros.</p>
         <div class="row">
             <div class="col-sm-12 col-md-5">
                 <div class="testimonial-box">
-                    <div class="testimonial-image"><img src="images/t1.jpg" alt="person" /></div>
-                    <div class="testimonial-title">Darvin Villavicencio<br><i>Lic. en Informatica</i></div>
-                    <div class="testimonial-details">Lorem Ipsum which looks reasonable generated as default model as and search many web sites pass websites is therefore always.</div>
+                    <div class="testimonial-image"><img src="images/darvin.png" alt="person" /></div>
+                    <div class="testimonial-title"><br>Darvin Villavicencio<br><i>Lic. en Informatica</i></div>
+                    <div class="testimonial-details">Egresado de la Universidad Autonóma de Santo Domingo.<br>
+                Conoce profundamente el sector de MiPyMEs, ha trabajado como asesor tic en los últimos años para empresas de este sector. <br>
+                Su experiencia en el mundo digital, sin duda alguna pueden aportar mucho a tu empresa</div>
                     <div class="testimonial-info"><span class="name">Sígueme en mis redes sociales</span></div>
                     <i class="fa fa-arrow-down"></i></a>
                     <div class="social">
