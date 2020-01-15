@@ -27,7 +27,7 @@
              <ul class="nav navbar-nav navbar-right">
                 <li><a href="about.php">Sobre Nosotros</a></li>
                 <li class="dropdown active">
-                    <a href="hosting.html">Servicios<span class="caret"></span></a>
+                    <a href="servicios.php">Servicios<span class="caret"></span></a>
                     <ul class="dropdown-menu">
                       <li><a href="desarrolloweb.php">Desarrollo Web</a></li>
                       <li><a href="sistemasweb.php">Sistemas Web</a></li>
@@ -203,7 +203,7 @@ Por nuestra efectividad, aseguramos resultados. Porque somos un equipo de profes
             </div>
             <div class="col-sm-8 col-md-8 info-text-holder">
                 <h3>Nuestra Atención</h3>
-                <p>Al equipo que conformamos Devus Software, formado por un grupo de jovenes, nos apasiona ofrecer la mejor atención personalizada a nuestros clientes en todo tipo servicios relacionadas con el área TICs. tratamos a cada cliente como si fuera el único.
+                <p>El equipo que conformamos Devus Software, está formado por un grupo de jovenes, nos apasiona ofrecer la mejor atención personalizada a nuestros clientes en todo tipo servicios relacionadas con el área TICs. tratamos a cada cliente como si fuera el único.
 Porque su empresa y su proyecto son importantes para nosotros.</p>
             </div>
         </div>

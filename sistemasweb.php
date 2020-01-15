@@ -56,7 +56,7 @@
     <div class="container">
         <div class="row">
             <div class="col-md-12">
-                <div class="text">Haremos Sistema Web de tu sueño.<br>
+                <div class="text">Haremos el Sistema Web de tu sueño.<br>
                  Estos son algunos: 
 </div>
             </div>
