@@ -8,6 +8,7 @@
 <link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
 <link rel="stylesheet" type="text/css" href="css/fontawesome-all.min.css">
 <link rel="stylesheet" type="text/css" href="css/style.css">
+<script src="//code.jivosite.com/widget/KtTNGPwxl0" async></script>
 </head>
 
 <body>
@@ -35,7 +36,7 @@
                     </ul>
                 </li>
                 <li><a href="support.php">Ayuda & Soporte</a></li>
-                <li><a href="contact.html">Contactanos</a></li>
+                <li><a href="contact.php">Contactanos</a></li>
                 <li><a class="chat-button" href="#">Chat now</a></li>
             </ul>
         </div>

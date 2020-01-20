@@ -8,6 +8,7 @@
 <link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
 <link rel="stylesheet" type="text/css" href="css/fontawesome-all.min.css">
 <link rel="stylesheet" type="text/css" href="css/style.css">
+<script src="//code.jivosite.com/widget/KtTNGPwxl0" async></script>
 </head>
 
 <body>
@@ -26,7 +27,7 @@
         <div style="height: 1px;" role="main" aria-expanded="false" class="navbar-collapse collapse" id="bs">
              <ul class="nav navbar-nav navbar-right">
                 <li><a href="about.php">Sobre Nosotros</a></li>
-                <li class="dropdown active">
+                <li class="dropdown">
                     <a href="servicios.php">Servicios<span class="caret"></span></a>
                     <ul class="dropdown-menu">
                       <li><a href="desarrolloweb.php">Desarrollo Web</a></li>
@@ -35,22 +36,26 @@
                     </ul>
                 </li>
                 <li><a href="support.php">Ayuda & Soporte</a></li>
-                <li><a href="contact.html">Contactanos</a></li>
+                <li><a href="contact.php">Contactanos</a></li>
                 <li><a class="chat-button" href="#">Chat now</a></li>
             </ul>
         </div>
     </div>
 </nav>
+<?php 
+include "EnviarMensage.php";
+?>
+
 <div id="top-content" class="container-fluid">
     <div class="container">
         <div class="row">
             <div class="col-md-12 text-center">
                 <div class="big-title">Lleva tu Negocio al Mundo Digital.</div>
                 <div class="sub-title">Es el Momento de la Transformación Digital. Recibe nuestras asesorías y servicios personalizados<br> en TIC para aumentar el alcance de tu negocio o empresa</div>
-                <div class="domain-search-holder">
-                    <form id="domain-search">
-                        <input id="domain-text" type="text" name="domain" placeholder="Entra Tu Correo Electronico" />
-                        <input id="search-btn" type="submit" name="submit" value="Contáctanos" />
+                <div class="text-search-holder">
+                    <form id="text-search">
+                        <input type="text" name="search" placeholder="Coloca tu correo aquí" />
+                        <input type="submit" name="submit" value="Ponte en Contacto"/>
                     </form>
                 </div>
                 <div class="animation">
@@ -283,17 +288,17 @@ Porque su empresa y su proyecto son importantes para nosotros.</p>
                     <div class="testimonial-info"><span class="name">Sígueme en mis redes sociales</span></div>
                     <i class="fa fa-arrow-down"></i></a>
                     <div class="social">
-                        <a href="https://www.facebook.com/kency.beras"><i class="fab fa-facebook-f"></i></a>
-                        <a href="https://www.linkedin.com/in/kenci-jenier-beras-custodio-22b137150/"><i class="fab fa-linkedin"></i></a>
-                        <a href="https://www.instagram.com/devussoftware"><i class="fab fa-instagram"></i></a>
+                        <a href="https://www.facebook.com/darvindvm"><i class="fab fa-facebook-f"></i></a>
+                        <a href="https://www.linkedin.com/in/darvindvm/"><i class="fab fa-linkedin"></i></a>
+                        <a href="https://www.instagram.com/darvinvm"><i class="fab fa-instagram"></i></a>
                     </div>
                 </div>
             </div>
             <!--team 2-->
             <div class="col-sm-12 col-md-5">
                 <div class="testimonial-box">
-                    <div class="testimonial-image"><img src="images/t2.jpg" alt="person" /></div>
-                    <div class="testimonial-title">Kenci Beras<br><i>Lic. en Informatica</i></div>
+                    <div class="testimonial-image"><img src="images/kency.png" alt="person" /></div><br>
+                    <div class="testimonial-title">Kenci Beras<br><i>Lic. en Informatica</i></div><br>
                     <div class="testimonial-details"> Egresado de la Universidad del Caribe, joven talentoso
                         con amplios conocimientos en las nuevas tecnologías del software.<br>Su experiencia dentro del
                         mercado de la tecnología lo hacen un candidato esencial para formar parte de nuestro equipo.
@@ -315,8 +320,8 @@ Porque su empresa y su proyecto son importantes para nosotros.</p>
     <div class="container">
         <div class="row">
             <div class="col-md-12">
-                <div class="text">Contactamos ahora!<br>Pregunta por nuestra oferta para emprendedores. </div>
-                <a href="contact.html" class="gstart">Vamos</a>
+                <div class="text">Contactanos ahora!<br>Pregunta por nuestra oferta para emprendedores. </div>
+                <a href="contact.php" class="gstart">Vamos</a>
             </div>
         </div>
     </div>

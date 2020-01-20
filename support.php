@@ -7,6 +7,8 @@
 <link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
 <link rel="stylesheet" type="text/css" href="css/fontawesome-all.min.css">
 <link rel="stylesheet" type="text/css" href="css/style.css">
+<script src="//code.jivosite.com/widget/KtTNGPwxl0" async></script>
+
 </head>
 
 <body>
@@ -34,7 +36,7 @@
                     </ul>
                 </li>
                 <li><a href="support.php" class="active">Ayuda & Soporte</a></li>
-                <li><a href="contact.html">Contactanos</a></li>
+                <li><a href="contact.php">Contactanos</a></li>
                 <li><a class="chat-button" href="#">Chat now</a></li>
             </ul>
         </div>
@@ -44,8 +46,8 @@
     <div class="container">
         <div class="row">
             <div class="col-md-12 text-center">
-                <div class="page-title">Help & Support</div>
-                <div class="page-subtitle">Getting started with Hostio takes just a few minutes once you’ve <a href="register.html">signed up</a> for an account.</div>
+                <div class="page-title">Ayuda & Soporte</div>
+                <div class="page-subtitle">Contactarnos es muy fácil, solo tienes que escribirnos al chat que ves al fondo de la página.</div>
             </div>
         </div>
     </div>
@@ -54,80 +56,69 @@
     <div class="container">
         <div class="row">
             <div class="col-md-7">
-                <div class="col-title-blue">Get the right support..</div>
+                <div class="col-title-blue">Obten la respuesta correcta...</div>
                 <div class="help-image-holder"><img class="help" src="./images/help.png" alt="help" /></div>
             </div>
             <div class="col-md-5">
-                <div class="col-title">Documentation</div>
+                <div class="col-title">Medios</div>
                 <div class="support-box green-support-box">
-                    <div class="support-box-title"><i class="fas fa-link" aria-hidden="true"></i><a href="#">Community Support</a></div>
+                    <div class="support-box-title"><i class="fas fa-link" aria-hidden="true"></i><a href="#">Soporte técnico</a></div>
                     <div class="support-box-details">
-                        Aenean accumsan aliquam justo, et rhoncus est ullamcorper at.
+                        Soporte directo de nuestros profesionales. Llámanos!
                     </div>
                 </div>
                 <div class="support-box yellow-support-box">
-                    <div class="support-box-title"><i class="fas fa-link" aria-hidden="true"></i><a href="#">Email Support</a></div>
+                    <div class="support-box-title"><i class="fas fa-link" aria-hidden="true"></i><a href="mailto:info@devus.software">Soporte por Email</a></div>
                     <div class="support-box-details">
-                        Suspendisse eget accumsan massa, venenatis fermentum dui.
+                        Escribenos a nuestro correo info@devus.software
 
                     </div>
                 </div>
                 <div class="support-box purple-support-box">
-                    <div class="support-box-title"><i class="fas fa-link" aria-hidden="true"></i><a href="#">Domain Names</a></div>
+                    <div class="support-box-title"><i class="fas fa-link" aria-hidden="true"></i><a href="#">Redes Sociales</a></div>
                     <div class="support-box-details">
-                        Morbi libero tortor, interdum fermentum justo et, mollis interdum justo. Morbi a accumsan urna.
+                        Siguenos a través de nuestras redes sociales, donde compartimos contenido de tú interés.
                     </div>
                 </div>
             </div>
         </div>
         <div class="row">
             <div class="col-md-7 col-padding-top">
-                <div class="col-title">Frequently Asked Questions</div>
+                <div class="col-title">Preguntas Frecuentes</div>
                 <div id="faq-questions">
                     <div class="faq-question-holder active">
                         <div class="faq-question">
-                            What is Web Hosting?
+                            Qué es un sistema web?
                         </div>
                         <div class="faq-answer">
-                            At vero eos et accusamus et iusto odio dignissimos  ducimus qui blanditiis praesentium voluptatum deleniti llitia animi,  At vero eos et accusamus et Main iusto odio dignissimos.
+                        Se denomina sistema web a aquellas aplicaciones de software que puede utilizarse accediendo a un servidor web a través de Internet o de una intranet mediante un navegador. Usar aplicaciones web ahorra dinero.
                         </div>
                     </div>
                     <div class="faq-question-holder">
                         <div class="faq-question">
-                            What makes Hostio standout from other hosting providers?
+                           Qué es una página web?
                         </div>
                         <div class="faq-answer">
-                            At vero eos et accusamus et iusto odio dignissimos  ducimus qui blanditiis praesentium voluptatum deleniti llitia animi,  At vero eos et accusamus et Main iusto odio dignissimos.
+                        Se conoce como página Web, página electrónica o página digital a un documento digital de carácter multimediático (es decir, capaz de incluir audio, video, texto y sus combinaciones), adaptado a los estándares de la World Wide Web (WWW) y a la que se puede acceder a través de un navegador Web y una conexión activa a Internet. Se trata del formato básico de contenidos en la red.
                         </div>
                     </div>
                     <div class="faq-question-holder">
                         <div class="faq-question">
-                            What type of Hosting do I need?
+                            Qué es el Branding?
                         </div>
                         <div class="faq-answer">
-                            At vero eos et accusamus et iusto odio dignissimos  ducimus qui blanditiis praesentium voluptatum deleniti llitia animi,  At vero eos et accusamus et Main iusto odio dignissimos.
+                        El branding corporativo es el proceso de construcción de una marca reconocible, con personalidad y que se recuerda por unos conceptos o ideas muy claras. Esto es el branding corporativo del que habla tanta gente, algo mucho más simple de lo que se piensa. No hay más, es “simplemente” eso: crear una marca que todos reconozcan y asocien con algo.
                         </div>
                     </div>
-                    <div class="faq-question-holder">
-                        <div class="faq-question">
-                            How can you help me and how can I reach your support?
-                        </div>
-                        <div class="faq-answer">
-                            At vero eos et accusamus et iusto odio dignissimos  ducimus qui blanditiis praesentium voluptatum deleniti llitia animi,  At vero eos et accusamus et Main iusto odio dignissimos.
-                        </div>
-                    </div>
+                    
                 </div>
             </div>
             <div class="col-md-5 col-padding-top">
-                <div class="col-title">Useful Links</div>
-                <a href="#"><h4>Website issue</h4></a>
-                <p>At vero eos et accusamus et iusto odio dignissimos  ducimus qui blanditiis. praesentium voluptatum deleniti llitia animi, At vero eos et accusamus et Main iusto odio dignissimos.</p>
+                <div class="col-title">Enlaces Importantes</div>
+                <a href="facebook.com/devus.software"><h4>Facebook</h4></a>
+
+                <a href="devus.software"><h4>Instagram</h4></a>
                 
-                <a href="#"><h4>Website issue</h4></a>
-                <p>At vero eos et accusamus et iusto odio dignissimos  ducimus qui blanditiis. praesentium voluptatum deleniti llitia animi, At vero eos et accusamus et Main iusto odio dignissimos.</p>
-                
-                <a href="#"><h4>Website issue</h4></a>
-                <p>At vero eos et accusamus et iusto odio dignissimos  ducimus qui blanditiis. praesentium voluptatum deleniti llitia animi, At vero eos et accusamus et Main iusto odio dignissimos.</p>
             </div>
         </div>
     </div>
@@ -138,8 +129,8 @@
             <div class="col-md-12">
                 <div class="text-search-holder">
                     <form id="text-search">
-                        <input type="text" name="search" placeholder="How can we help you today?" />
-                        <input type="submit" name="submit" value="Find out" />
+                        <input type="text" name="search" placeholder="Cómo Podemos Ayudarte Hoy?" />
+                        <input type="submit" name="submit" value="Escribenos" />
                     </form>
                 </div>
             </div>
